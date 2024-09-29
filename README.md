@@ -36,7 +36,8 @@ Ce projet Android est une application simple qui permet aux utilisateurs de rép
 
 Voici une courte démonstration de l'application :
 
-[Cliquez ici pour regarder la vidéo](https://drive.google.com/file/d/1luvhwT0ONW_RWNv5MrPcWVxO6sGKFlq6/view?usp=sharing)
+https://github.com/user-attachments/assets/a9c0fa5c-cd02-4499-905d-a13e3987c450
+
 
 
 ### Auteur
